@@ -12,14 +12,14 @@ public:
     bool isHappy(int n) {
         int slow = n;
         int fast = n;
-        while(fast != 1){
+        do {
             slow = sumofsquares(slow);
             fast = sumofsquares(fast);
             fast = sumofsquares(fast);
             if(slow == fast && slow != 1){ // cycle present 
                 return false;
             }
-        }
+        } while(fast != 1);
         return true;
     }
 };

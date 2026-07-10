@@ -43,23 +43,25 @@
     "solved": 6
   },
   "syncedProblems": {
-    "GeeksForGeeks_Smallest_sum_contiguous_subarray": true
+    "GeeksForGeeks_Smallest_sum_contiguous_subarray": true,
+    "LeetCode_Maximum_Product_Subarray": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Smallest sum contiguous subarray"
+    "Smallest sum contiguous subarray",
+    "Maximum Product Subarray"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-10",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-07-10": 1
+    "2026-07-10": 2
   }
 }

@@ -15,3 +15,4 @@
 | ------- |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shubhamjindl/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
+| 4 | [Maximum Absolute Sum of Any Subarray](./LeetCode/Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | 12 Jul 2026 | 12:50 am |

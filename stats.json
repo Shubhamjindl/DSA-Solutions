@@ -44,24 +44,25 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Smallest_sum_contiguous_subarray": true,
-    "LeetCode_Maximum_Product_Subarray": true
+    "LeetCode_Maximum_Product_Subarray": true,
+    "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Smallest sum contiguous subarray",
-    "Maximum Product Subarray"
+    "Maximum Subarray Sum with One Deletion"
   ],
-  "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-10",
-  "maxStreak": 1,
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-11",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-07-10": 2
+    "2026-07-10": 2,
+    "2026-07-11": 1
   }
 }

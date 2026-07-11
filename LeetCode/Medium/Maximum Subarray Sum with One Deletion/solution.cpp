@@ -8,12 +8,14 @@ public:
             int prevNoDelete = noDelete;
             int prevOneDelete = oneDelete;
             noDelete = max(prevNoDelete + arr[i], arr[i]);
+            int v1;
             if(prevOneDelete == INT_MIN){
-                oneDelete = prevNoDelete;
+                v1 = arr[i];
             }
             else{
-                oneDelete = max(prevOneDelete + arr[i], prevNoDelete);
+                v1 = prevOneDelete + arr[i];
             }
+            oneDelete = max(v1, prevNoDelete);
             ans = max(ans, max(oneDelete, noDelete));
         }
         return ans;

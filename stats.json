@@ -45,7 +45,7 @@
   "syncedProblems": {
     "GeeksForGeeks_Smallest_sum_contiguous_subarray": true,
     "LeetCode_Maximum_Product_Subarray": true,
-    "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true
+    "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": false
   },
   "totalSolved": 3,
   "difficultyCounts": {

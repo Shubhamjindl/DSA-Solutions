@@ -47,26 +47,28 @@
     "LeetCode_Maximum_Product_Subarray": true,
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
     "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 5,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
     "Maximum Absolute Sum of Any Subarray",
-    "Two Sum II - Input Array Is Sorted"
+    "Two Sum II - Input Array Is Sorted",
+    "Remove Duplicates from Sorted Array"
   ],
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 3,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
-    "2026-07-12": 2
+    "2026-07-12": 3
   }
 }

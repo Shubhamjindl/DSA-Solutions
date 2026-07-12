@@ -48,11 +48,12 @@
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
     "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
   },
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 5,
     "hard": 0,
     "basic": 0
@@ -60,15 +61,16 @@
   "todayProblems": [
     "Maximum Absolute Sum of Any Subarray",
     "Two Sum II - Input Array Is Sorted",
-    "Remove Duplicates from Sorted Array"
+    "Remove Duplicates from Sorted Array",
+    "Max Sum Subarray of size K"
   ],
   "currentStreak": 3,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 3,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
-    "2026-07-12": 3
+    "2026-07-12": 4
   }
 }

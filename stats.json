@@ -50,26 +50,28 @@
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
-    "LeetCode_Contains_Duplicate_II": true
+    "LeetCode_Contains_Duplicate_II": true,
+    "LeetCode_4Sum": true
   },
-  "totalSolved": 8,
+  "totalSolved": 9,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Contains Duplicate II"
+    "Contains Duplicate II",
+    "4Sum"
   ],
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-13",
   "maxStreak": 4,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
     "2026-07-12": 4,
-    "2026-07-13": 1
+    "2026-07-13": 2
   }
 }

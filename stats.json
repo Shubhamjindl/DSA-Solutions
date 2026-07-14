@@ -52,20 +52,22 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_4Sum": true,
-    "LeetCode_Valid_Palindrome": true
+    "LeetCode_Valid_Palindrome": true,
+    "LeetCode_Move_Zeroes": true
   },
-  "totalSolved": 10,
+  "totalSolved": 11,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 6,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Palindrome"
+    "Valid Palindrome",
+    "Move Zeroes"
   ],
   "currentStreak": 5,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 5,
   "activityHistory": {
@@ -73,6 +75,6 @@
     "2026-07-11": 1,
     "2026-07-12": 4,
     "2026-07-13": 2,
-    "2026-07-14": 1
+    "2026-07-14": 2
   }
 }

@@ -53,28 +53,29 @@
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_4Sum": true,
     "LeetCode_Valid_Palindrome": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Maximum_Sum_Circular_Subarray": true
   },
-  "totalSolved": 11,
+  "totalSolved": 12,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Palindrome",
-    "Move Zeroes"
+    "Maximum Sum Circular Subarray"
   ],
-  "currentStreak": 5,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-14",
-  "maxStreak": 5,
+  "currentStreak": 6,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-15",
+  "maxStreak": 6,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
     "2026-07-12": 4,
     "2026-07-13": 2,
-    "2026-07-14": 2
+    "2026-07-14": 2,
+    "2026-07-15": 1
   }
 }

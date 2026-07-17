@@ -56,20 +56,22 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "LeetCode_Find_Pivot_Index": true,
-    "LeetCode_Happy_Number": true
+    "LeetCode_Happy_Number": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Happy Number"
+    "Happy Number",
+    "Subarray Sum Equals K"
   ],
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-17",
   "maxStreak": 8,
   "activityHistory": {
@@ -80,6 +82,6 @@
     "2026-07-14": 2,
     "2026-07-15": 1,
     "2026-07-16": 1,
-    "2026-07-17": 1
+    "2026-07-17": 2
   }
 }

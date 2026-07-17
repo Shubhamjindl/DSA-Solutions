@@ -51,7 +51,6 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
     "LeetCode_Contains_Duplicate_II": true,
-    "LeetCode_4Sum": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
@@ -59,10 +58,10 @@
     "LeetCode_Happy_Number": true,
     "LeetCode_Subarray_Sum_Equals_K": true
   },
-  "totalSolved": 15,
+  "totalSolved": 14,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 8,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },

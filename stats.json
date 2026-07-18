@@ -56,23 +56,23 @@
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Happy_Number": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Minimum_Size_Subarray_Sum": true
   },
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Happy Number",
-    "Subarray Sum Equals K"
+    "Minimum Size Subarray Sum"
   ],
-  "currentStreak": 8,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-17",
-  "maxStreak": 8,
+  "currentStreak": 9,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-18",
+  "maxStreak": 9,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -81,6 +81,7 @@
     "2026-07-14": 2,
     "2026-07-15": 1,
     "2026-07-16": 1,
-    "2026-07-17": 2
+    "2026-07-17": 2,
+    "2026-07-18": 1
   }
 }

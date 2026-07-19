@@ -61,21 +61,23 @@
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "LeetCode_Contiguous_Array": true,
     "LeetCode_Merge_Intervals": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
   },
-  "totalSolved": 19,
+  "totalSolved": 20,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
     "Merge Intervals",
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "Longest Substring with K Uniques"
   ],
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-19",
   "maxStreak": 10,
   "activityHistory": {
@@ -88,6 +90,6 @@
     "2026-07-16": 1,
     "2026-07-17": 2,
     "2026-07-18": 3,
-    "2026-07-19": 2
+    "2026-07-19": 3
   }
 }

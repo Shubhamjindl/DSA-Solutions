@@ -60,20 +60,22 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "LeetCode_Contiguous_Array": true,
-    "LeetCode_Merge_Intervals": true
+    "LeetCode_Merge_Intervals": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
-  "totalSolved": 18,
+  "totalSolved": 19,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Merge Intervals"
+    "Merge Intervals",
+    "Longest Substring Without Repeating Characters"
   ],
   "currentStreak": 10,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-19",
   "maxStreak": 10,
   "activityHistory": {
@@ -86,6 +88,6 @@
     "2026-07-16": 1,
     "2026-07-17": 2,
     "2026-07-18": 3,
-    "2026-07-19": 1
+    "2026-07-19": 2
   }
 }

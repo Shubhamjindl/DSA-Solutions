@@ -17,3 +17,4 @@
 | 15 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 18 Jul 2026 | 09:54 am |
 | 16 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 18 Jul 2026 | 12:37 pm |
 | 17 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 18 Jul 2026 | 08:30 pm |
+| 18 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 19 Jul 2026 | 01:15 pm |

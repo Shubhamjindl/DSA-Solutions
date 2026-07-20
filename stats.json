@@ -63,25 +63,23 @@
     "LeetCode_Merge_Intervals": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
-    "LeetCode_Insert_Interval": true
+    "LeetCode_Insert_Interval": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
-  "totalSolved": 21,
+  "totalSolved": 22,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 14,
+    "medium": 15,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Merge Intervals",
-    "Longest Substring Without Repeating Characters",
-    "Longest Substring with K Uniques",
-    "Insert Interval"
+    "Product of Array Except Self"
   ],
-  "currentStreak": 10,
-  "todayCount": 4,
-  "lastSyncDate": "2026-07-19",
-  "maxStreak": 10,
+  "currentStreak": 11,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-20",
+  "maxStreak": 11,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -92,6 +90,7 @@
     "2026-07-16": 1,
     "2026-07-17": 2,
     "2026-07-18": 3,
-    "2026-07-19": 4
+    "2026-07-19": 4,
+    "2026-07-20": 1
   }
 }

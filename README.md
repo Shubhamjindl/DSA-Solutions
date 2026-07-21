@@ -24,3 +24,4 @@
 | 22 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 20 Jul 2026 | 03:50 pm |
 | 23 | [Remove Duplicates from Sorted Array II](./Manual/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II) | [Manual](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | 21 Jul 2026 | 12:12 am |
 | 24 | [Interval List Intersections](./LeetCode/Medium/Interval%20List%20Intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) | Medium | 21 Jul 2026 | 12:38 am |
+| 25 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 21 Jul 2026 | 07:06 pm |

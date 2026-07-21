@@ -66,21 +66,23 @@
     "LeetCode_Insert_Interval": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "Manual_Remove_Duplicates_from_Sorted_Array_II": true,
-    "LeetCode_Interval_List_Intersections": true
+    "LeetCode_Interval_List_Intersections": true,
+    "GeeksForGeeks_Overlapping_Intervals": true
   },
-  "totalSolved": 24,
+  "totalSolved": 25,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 17,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
     "Remove Duplicates from Sorted Array II",
-    "Interval List Intersections"
+    "Interval List Intersections",
+    "Overlapping Intervals"
   ],
   "currentStreak": 12,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-21",
   "maxStreak": 12,
   "activityHistory": {
@@ -95,6 +97,6 @@
     "2026-07-18": 3,
     "2026-07-19": 4,
     "2026-07-20": 1,
-    "2026-07-21": 2
+    "2026-07-21": 3
   }
 }

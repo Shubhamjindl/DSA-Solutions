@@ -27,3 +27,4 @@
 | 25 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 21 Jul 2026 | 07:06 pm |
 | 26 | [Meeting Rooms II](./GeeksForGeeks/Medium/Meeting%20Rooms%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | Medium | 22 Jul 2026 | 01:43 pm |
 | 27 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 23 Jul 2026 | 07:19 pm |
+| 28 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 24 Jul 2026 | 11:46 pm |

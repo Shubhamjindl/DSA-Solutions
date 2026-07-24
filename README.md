@@ -28,3 +28,4 @@
 | 26 | [Meeting Rooms II](./GeeksForGeeks/Medium/Meeting%20Rooms%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | Medium | 22 Jul 2026 | 01:43 pm |
 | 27 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 23 Jul 2026 | 07:19 pm |
 | 28 | [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | 24 Jul 2026 | 11:46 pm |
+| 29 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 25 Jul 2026 | 12:21 am |

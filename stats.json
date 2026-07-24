@@ -70,22 +70,23 @@
     "GeeksForGeeks_Overlapping_Intervals": true,
     "GeeksForGeeks_Meeting_Rooms_II": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
-    "GeeksForGeeks_Next_Greater_Element": true
+    "GeeksForGeeks_Next_Greater_Element": true,
+    "LeetCode_Next_Greater_Element_I": true
   },
-  "totalSolved": 28,
+  "totalSolved": 29,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 19,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Next Greater Element"
+    "Next Greater Element I"
   ],
-  "currentStreak": 15,
+  "currentStreak": 16,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-24",
-  "maxStreak": 15,
+  "lastSyncDate": "2026-07-25",
+  "maxStreak": 16,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -101,6 +102,7 @@
     "2026-07-21": 3,
     "2026-07-22": 1,
     "2026-07-23": 1,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   }
 }

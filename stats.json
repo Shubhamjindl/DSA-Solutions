@@ -75,26 +75,23 @@
     "LeetCode_Next_Greater_Element_II": true,
     "LeetCode_Daily_Temperatures": true,
     "LeetCode_Asteroid_Collision": true,
-    "LeetCode_Max_Consecutive_Ones": true
+    "LeetCode_Max_Consecutive_Ones": true,
+    "LeetCode_Subarray_Product_Less_Than_K": true
   },
-  "totalSolved": 33,
+  "totalSolved": 34,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 22,
+    "medium": 23,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Next Greater Element I",
-    "Next Greater Element II",
-    "Daily Temperatures",
-    "Asteroid Collision",
-    "Max Consecutive Ones"
+    "Subarray Product Less Than K"
   ],
-  "currentStreak": 16,
-  "todayCount": 5,
-  "lastSyncDate": "2026-07-25",
-  "maxStreak": 16,
+  "currentStreak": 17,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-26",
+  "maxStreak": 17,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -111,6 +108,7 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 5
+    "2026-07-25": 5,
+    "2026-07-26": 1
   }
 }

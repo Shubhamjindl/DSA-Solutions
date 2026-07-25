@@ -74,11 +74,12 @@
     "LeetCode_Next_Greater_Element_I": true,
     "LeetCode_Next_Greater_Element_II": true,
     "LeetCode_Daily_Temperatures": true,
-    "LeetCode_Asteroid_Collision": true
+    "LeetCode_Asteroid_Collision": true,
+    "LeetCode_Max_Consecutive_Ones": true
   },
-  "totalSolved": 32,
+  "totalSolved": 33,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 22,
     "hard": 0,
     "basic": 0
@@ -87,10 +88,11 @@
     "Next Greater Element I",
     "Next Greater Element II",
     "Daily Temperatures",
-    "Asteroid Collision"
+    "Asteroid Collision",
+    "Max Consecutive Ones"
   ],
   "currentStreak": 16,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-25",
   "maxStreak": 16,
   "activityHistory": {
@@ -109,6 +111,6 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 4
+    "2026-07-25": 5
   }
 }

@@ -72,21 +72,23 @@
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
     "GeeksForGeeks_Next_Greater_Element": true,
     "LeetCode_Next_Greater_Element_I": true,
-    "LeetCode_Next_Greater_Element_II": true
+    "LeetCode_Next_Greater_Element_II": true,
+    "LeetCode_Daily_Temperatures": true
   },
-  "totalSolved": 30,
+  "totalSolved": 31,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 20,
+    "medium": 21,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
     "Next Greater Element I",
-    "Next Greater Element II"
+    "Next Greater Element II",
+    "Daily Temperatures"
   ],
   "currentStreak": 16,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-25",
   "maxStreak": 16,
   "activityHistory": {
@@ -105,6 +107,6 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 2
+    "2026-07-25": 3
   }
 }

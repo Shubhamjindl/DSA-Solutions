@@ -34,3 +34,4 @@
 | 32 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 25 Jul 2026 | 08:56 pm |
 | 33 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 25 Jul 2026 | 11:48 pm |
 | 34 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 26 Jul 2026 | 12:31 am |
+| 35 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 26 Jul 2026 | 12:55 pm |

@@ -76,20 +76,22 @@
     "LeetCode_Daily_Temperatures": true,
     "LeetCode_Asteroid_Collision": true,
     "LeetCode_Max_Consecutive_Ones": true,
-    "LeetCode_Subarray_Product_Less_Than_K": true
+    "LeetCode_Subarray_Product_Less_Than_K": true,
+    "LeetCode_Range_Sum_Query_-_Immutable": true
   },
-  "totalSolved": 34,
+  "totalSolved": 35,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 23,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Subarray Product Less Than K"
+    "Subarray Product Less Than K",
+    "Range Sum Query - Immutable"
   ],
   "currentStreak": 17,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-26",
   "maxStreak": 17,
   "activityHistory": {
@@ -109,6 +111,6 @@
     "2026-07-23": 1,
     "2026-07-24": 1,
     "2026-07-25": 5,
-    "2026-07-26": 1
+    "2026-07-26": 2
   }
 }

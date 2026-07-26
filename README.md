@@ -37,3 +37,4 @@
 | 35 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 26 Jul 2026 | 12:55 pm |
 | 36 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 26 Jul 2026 | 04:47 pm |
 | 37 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 26 Jul 2026 | 06:15 pm |
+| 38 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 27 Jul 2026 | 12:14 am |

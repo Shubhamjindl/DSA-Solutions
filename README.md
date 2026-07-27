@@ -39,3 +39,4 @@
 | 37 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 26 Jul 2026 | 06:15 pm |
 | 38 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 27 Jul 2026 | 12:14 am |
 | 39 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 27 Jul 2026 | 04:05 pm |
+| 40 | [Remove All Adjacent Duplicates in String II](./LeetCode/Medium/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | 27 Jul 2026 | 09:55 pm |

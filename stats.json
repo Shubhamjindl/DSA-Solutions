@@ -81,21 +81,23 @@
     "LeetCode_Continuous_Subarray_Sum": true,
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Valid_Parentheses": true,
-    "LeetCode_Length_of_Last_Word": true
+    "LeetCode_Length_of_Last_Word": true,
+    "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true
   },
-  "totalSolved": 39,
+  "totalSolved": 40,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 24,
+    "medium": 25,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
     "Valid Parentheses",
-    "Length of Last Word"
+    "Length of Last Word",
+    "Remove All Adjacent Duplicates in String II"
   ],
   "currentStreak": 18,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-27",
   "maxStreak": 18,
   "activityHistory": {
@@ -116,6 +118,6 @@
     "2026-07-24": 1,
     "2026-07-25": 5,
     "2026-07-26": 4,
-    "2026-07-27": 2
+    "2026-07-27": 3
   }
 }

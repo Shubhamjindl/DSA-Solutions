@@ -80,20 +80,22 @@
     "LeetCode_Range_Sum_Query_-_Immutable": true,
     "LeetCode_Continuous_Subarray_Sum": true,
     "LeetCode_Minimum_Window_Substring": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Length_of_Last_Word": true
   },
-  "totalSolved": 38,
+  "totalSolved": 39,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 24,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Parentheses"
+    "Valid Parentheses",
+    "Length of Last Word"
   ],
   "currentStreak": 18,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-27",
   "maxStreak": 18,
   "activityHistory": {
@@ -114,6 +116,6 @@
     "2026-07-24": 1,
     "2026-07-25": 5,
     "2026-07-26": 4,
-    "2026-07-27": 1
+    "2026-07-27": 2
   }
 }

@@ -82,24 +82,23 @@
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Length_of_Last_Word": true,
-    "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true
+    "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
+    "LeetCode_Corporate_Flight_Bookings": true
   },
-  "totalSolved": 40,
+  "totalSolved": 41,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 25,
+    "medium": 26,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Parentheses",
-    "Length of Last Word",
-    "Remove All Adjacent Duplicates in String II"
+    "Corporate Flight Bookings"
   ],
-  "currentStreak": 18,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-27",
-  "maxStreak": 18,
+  "currentStreak": 19,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-28",
+  "maxStreak": 19,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -118,6 +117,7 @@
     "2026-07-24": 1,
     "2026-07-25": 5,
     "2026-07-26": 4,
-    "2026-07-27": 3
+    "2026-07-27": 3,
+    "2026-07-28": 1
   }
 }

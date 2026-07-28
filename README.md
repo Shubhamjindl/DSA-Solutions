@@ -41,3 +41,4 @@
 | 39 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 27 Jul 2026 | 04:05 pm |
 | 40 | [Remove All Adjacent Duplicates in String II](./LeetCode/Medium/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | 27 Jul 2026 | 09:55 pm |
 | 41 | [Corporate Flight Bookings](./LeetCode/Medium/Corporate%20Flight%20Bookings) | [LeetCode](https://leetcode.com/problems/corporate-flight-bookings/) | Medium | 28 Jul 2026 | 05:46 pm |
+| 42 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 28 Jul 2026 | 10:11 pm |

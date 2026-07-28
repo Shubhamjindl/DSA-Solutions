@@ -83,20 +83,22 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
-    "LeetCode_Corporate_Flight_Bookings": true
+    "LeetCode_Corporate_Flight_Bookings": true,
+    "LeetCode_First_Unique_Character_in_a_String": true
   },
-  "totalSolved": 41,
+  "totalSolved": 42,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 26,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Corporate Flight Bookings"
+    "Corporate Flight Bookings",
+    "First Unique Character in a String"
   ],
   "currentStreak": 19,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 19,
   "activityHistory": {
@@ -118,6 +120,6 @@
     "2026-07-25": 5,
     "2026-07-26": 4,
     "2026-07-27": 3,
-    "2026-07-28": 1
+    "2026-07-28": 2
   }
 }

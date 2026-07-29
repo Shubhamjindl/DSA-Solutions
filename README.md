@@ -44,3 +44,4 @@
 | 42 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 28 Jul 2026 | 10:11 pm |
 | 43 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 29 Jul 2026 | 06:21 pm |
 | 44 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 29 Jul 2026 | 07:09 pm |
+| 45 | [Longest Palindrome](./LeetCode/Easy/Longest%20Palindrome) | [LeetCode](https://leetcode.com/problems/longest-palindrome/) | Easy | 29 Jul 2026 | 08:32 pm |

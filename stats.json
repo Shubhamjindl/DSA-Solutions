@@ -86,21 +86,23 @@
     "LeetCode_Corporate_Flight_Bookings": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Ransom_Note": true,
-    "LeetCode_Maximum_Number_of_Balloons": true
+    "LeetCode_Maximum_Number_of_Balloons": true,
+    "LeetCode_Longest_Palindrome": true
   },
-  "totalSolved": 44,
+  "totalSolved": 45,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 26,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
     "Ransom Note",
-    "Maximum Number of Balloons"
+    "Maximum Number of Balloons",
+    "Longest Palindrome"
   ],
   "currentStreak": 20,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-29",
   "maxStreak": 20,
   "activityHistory": {
@@ -123,6 +125,6 @@
     "2026-07-26": 4,
     "2026-07-27": 3,
     "2026-07-28": 2,
-    "2026-07-29": 2
+    "2026-07-29": 3
   }
 }

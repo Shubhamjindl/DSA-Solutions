@@ -43,3 +43,4 @@
 | 41 | [Corporate Flight Bookings](./LeetCode/Medium/Corporate%20Flight%20Bookings) | [LeetCode](https://leetcode.com/problems/corporate-flight-bookings/) | Medium | 28 Jul 2026 | 05:46 pm |
 | 42 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 28 Jul 2026 | 10:11 pm |
 | 43 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 29 Jul 2026 | 06:21 pm |
+| 44 | [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) | [LeetCode](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | 29 Jul 2026 | 07:09 pm |

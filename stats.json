@@ -85,20 +85,22 @@
     "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
     "LeetCode_Corporate_Flight_Bookings": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
-    "LeetCode_Ransom_Note": true
+    "LeetCode_Ransom_Note": true,
+    "LeetCode_Maximum_Number_of_Balloons": true
   },
-  "totalSolved": 43,
+  "totalSolved": 44,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 26,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Ransom Note"
+    "Ransom Note",
+    "Maximum Number of Balloons"
   ],
   "currentStreak": 20,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-29",
   "maxStreak": 20,
   "activityHistory": {
@@ -121,6 +123,6 @@
     "2026-07-26": 4,
     "2026-07-27": 3,
     "2026-07-28": 2,
-    "2026-07-29": 1
+    "2026-07-29": 2
   }
 }

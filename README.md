@@ -48,3 +48,4 @@
 | 46 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 30 Jul 2026 | 10:02 am |
 | 47 | [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 31 Jul 2026 | 02:25 am |
 | 48 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 01 Aug 2026 | 12:23 pm |
+| 49 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 01 Aug 2026 | 03:48 pm |

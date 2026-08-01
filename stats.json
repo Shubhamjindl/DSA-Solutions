@@ -91,21 +91,23 @@
     "LeetCode_Reverse_String": true,
     "LeetCode_Reverse_Linked_List_II": true,
     "LeetCode_Swap_Nodes_in_Pairs": true,
-    "LeetCode_Reverse_Nodes_in_k-Group": true
+    "LeetCode_Reverse_Nodes_in_k-Group": true,
+    "LeetCode_Rotate_List": true
   },
-  "totalSolved": 49,
+  "totalSolved": 50,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 28,
+    "medium": 29,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
     "Swap Nodes in Pairs",
-    "Reverse Nodes in k-Group"
+    "Reverse Nodes in k-Group",
+    "Rotate List"
   ],
   "currentStreak": 23,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-01",
   "maxStreak": 23,
   "activityHistory": {
@@ -131,6 +133,6 @@
     "2026-07-29": 3,
     "2026-07-30": 1,
     "2026-07-31": 1,
-    "2026-08-01": 2
+    "2026-08-01": 3
   }
 }

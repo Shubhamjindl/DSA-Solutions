@@ -89,22 +89,23 @@
     "LeetCode_Maximum_Number_of_Balloons": true,
     "LeetCode_Longest_Palindrome": true,
     "LeetCode_Reverse_String": true,
-    "LeetCode_Reverse_Linked_List_II": true
+    "LeetCode_Reverse_Linked_List_II": true,
+    "LeetCode_Swap_Nodes_in_Pairs": true
   },
-  "totalSolved": 47,
+  "totalSolved": 48,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 27,
+    "medium": 28,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Reverse Linked List II"
+    "Swap Nodes in Pairs"
   ],
-  "currentStreak": 22,
+  "currentStreak": 23,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-31",
-  "maxStreak": 22,
+  "lastSyncDate": "2026-08-01",
+  "maxStreak": 23,
   "activityHistory": {
     "2026-07-10": 2,
     "2026-07-11": 1,
@@ -127,6 +128,7 @@
     "2026-07-28": 2,
     "2026-07-29": 3,
     "2026-07-30": 1,
-    "2026-07-31": 1
+    "2026-07-31": 1,
+    "2026-08-01": 1
   }
 }

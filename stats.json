@@ -93,20 +93,22 @@
     "LeetCode_Swap_Nodes_in_Pairs": true,
     "LeetCode_Reverse_Nodes_in_k-Group": true,
     "LeetCode_Rotate_List": true,
-    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true
+    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
-  "totalSolved": 51,
+  "totalSolved": 52,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 29,
+    "medium": 30,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Ceil in a Sorted Array"
+    "Ceil in a Sorted Array",
+    "Find First and Last Position of Element in Sorted Array"
   ],
   "currentStreak": 24,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-02",
   "maxStreak": 24,
   "activityHistory": {
@@ -133,6 +135,6 @@
     "2026-07-30": 1,
     "2026-07-31": 1,
     "2026-08-01": 3,
-    "2026-08-02": 1
+    "2026-08-02": 2
   }
 }

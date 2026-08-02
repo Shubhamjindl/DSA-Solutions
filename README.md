@@ -50,3 +50,4 @@
 | 48 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 01 Aug 2026 | 12:23 pm |
 | 49 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 01 Aug 2026 | 03:48 pm |
 | 50 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 01 Aug 2026 | 07:24 pm |
+| 51 | [Ceil in a Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | Easy | 02 Aug 2026 | 07:09 pm |

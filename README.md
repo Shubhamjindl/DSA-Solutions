@@ -52,3 +52,4 @@
 | 50 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 01 Aug 2026 | 07:24 pm |
 | 51 | [Ceil in a Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | Easy | 02 Aug 2026 | 07:09 pm |
 | 52 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 02 Aug 2026 | 10:17 pm |
+| 53 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 05 Aug 2026 | 12:04 am |

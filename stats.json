@@ -94,22 +94,22 @@
     "LeetCode_Reverse_Nodes_in_k-Group": true,
     "LeetCode_Rotate_List": true,
     "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
-  "totalSolved": 52,
+  "totalSolved": 53,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 30,
+    "medium": 31,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Ceil in a Sorted Array",
-    "Find First and Last Position of Element in Sorted Array"
+    "Search in Rotated Sorted Array"
   ],
-  "currentStreak": 24,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-02",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-05",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -135,6 +135,7 @@
     "2026-07-30": 1,
     "2026-07-31": 1,
     "2026-08-01": 3,
-    "2026-08-02": 2
+    "2026-08-02": 2,
+    "2026-08-05": 1
   }
 }

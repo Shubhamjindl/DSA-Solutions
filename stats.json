@@ -97,22 +97,24 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true
   },
-  "totalSolved": 55,
+  "totalSolved": 56,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 33,
+    "medium": 34,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
     "Search in Rotated Sorted Array",
     "Find Minimum in Rotated Sorted Array",
-    "Reverse Words in a String"
+    "Reverse Words in a String",
+    "Peak Index in a Mountain Array"
   ],
   "currentStreak": 1,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-05",
   "maxStreak": 24,
   "activityHistory": {
@@ -140,6 +142,6 @@
     "2026-07-31": 1,
     "2026-08-01": 3,
     "2026-08-02": 2,
-    "2026-08-05": 3
+    "2026-08-05": 4
   }
 }

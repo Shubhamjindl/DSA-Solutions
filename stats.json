@@ -99,21 +99,22 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
-    "LeetCode_Koko_Eating_Bananas": true
+    "LeetCode_Koko_Eating_Bananas": true,
+    "GeeksForGeeks_Aggressive_Cows": true
   },
-  "totalSolved": 57,
+  "totalSolved": 58,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 35,
+    "medium": 36,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Koko Eating Bananas"
+    "Aggressive Cows"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-06",
+  "lastSyncDate": "2026-08-08",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -141,6 +142,7 @@
     "2026-08-01": 3,
     "2026-08-02": 2,
     "2026-08-05": 4,
-    "2026-08-06": 1
+    "2026-08-06": 1,
+    "2026-08-08": 1
   }
 }

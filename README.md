@@ -57,3 +57,4 @@
 | 55 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 05 Aug 2026 | 12:04 pm |
 | 56 | [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | 05 Aug 2026 | 08:48 pm |
 | 57 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 06 Aug 2026 | 09:44 pm |
+| 58 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 08 Aug 2026 | 12:00 am |

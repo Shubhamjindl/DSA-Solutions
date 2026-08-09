@@ -101,20 +101,22 @@
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "GeeksForGeeks_Aggressive_Cows": true,
-    "GeeksForGeeks_Allocate_Minimum_Pages": true
+    "GeeksForGeeks_Allocate_Minimum_Pages": true,
+    "LeetCode_Search_a_2D_Matrix": true
   },
-  "totalSolved": 59,
+  "totalSolved": 60,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 37,
+    "medium": 38,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Allocate Minimum Pages"
+    "Allocate Minimum Pages",
+    "Search a 2D Matrix"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 24,
   "activityHistory": {
@@ -145,6 +147,6 @@
     "2026-08-05": 4,
     "2026-08-06": 1,
     "2026-08-08": 1,
-    "2026-08-09": 1
+    "2026-08-09": 2
   }
 }

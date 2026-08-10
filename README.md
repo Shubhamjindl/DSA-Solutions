@@ -61,3 +61,4 @@
 | 59 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 09 Aug 2026 | 03:30 am |
 | 60 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 09 Aug 2026 | 01:07 pm |
 | 61 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 09 Aug 2026 | 09:43 pm |
+| 62 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 11 Aug 2026 | 02:27 am |

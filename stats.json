@@ -105,20 +105,22 @@
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Search_a_2D_Matrix_II": true,
     "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true,
-    "GeeksForGeeks_Kth_Smallest": true
+    "GeeksForGeeks_Kth_Smallest": true,
+    "LeetCode_Kth_Largest_Element_in_an_Array": true
   },
-  "totalSolved": 63,
+  "totalSolved": 64,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 41,
+    "medium": 42,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Kth Smallest"
+    "Kth Smallest",
+    "Kth Largest Element in an Array"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-12",
   "maxStreak": 24,
   "activityHistory": {
@@ -151,6 +153,6 @@
     "2026-08-08": 1,
     "2026-08-09": 3,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 2
   }
 }

@@ -63,3 +63,4 @@
 | 61 | [Search a 2D Matrix II](./LeetCode/Medium/Search%20a%202D%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | 09 Aug 2026 | 09:43 pm |
 | 62 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 11 Aug 2026 | 02:27 am |
 | 63 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | 12 Aug 2026 | 12:31 pm |
+| 64 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 12 Aug 2026 | 07:40 pm |

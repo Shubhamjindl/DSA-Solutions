@@ -65,3 +65,4 @@
 | 63 | [Kth Smallest](./GeeksForGeeks/Medium/Kth%20Smallest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | 12 Aug 2026 | 12:31 pm |
 | 64 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 12 Aug 2026 | 07:40 pm |
 | 65 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 14 Aug 2026 | 01:59 am |
+| 66 | [Top K Frequent Words](./LeetCode/Medium/Top%20K%20Frequent%20Words) | [LeetCode](https://leetcode.com/problems/top-k-frequent-words/) | Medium | 14 Aug 2026 | 07:39 pm |

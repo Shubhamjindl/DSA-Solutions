@@ -111,21 +111,22 @@
     "LeetCode_Top_K_Frequent_Words": true,
     "LeetCode_K_Closest_Points_to_Origin": true,
     "LeetCode_Reorganize_String": true,
-    "LeetCode_Last_Stone_Weight": true
+    "LeetCode_Last_Stone_Weight": true,
+    "LeetCode_Task_Scheduler": true
   },
-  "totalSolved": 69,
+  "totalSolved": 70,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 46,
+    "medium": 47,
     "hard": 2,
     "basic": 0
   },
   "todayProblems": [
-    "Last Stone Weight"
+    "Task Scheduler"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-30",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -161,6 +162,7 @@
     "2026-08-14": 2,
     "2026-08-15": 1,
     "2026-08-17": 1,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-30": 1
   }
 }

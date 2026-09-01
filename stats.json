@@ -114,20 +114,22 @@
     "LeetCode_Last_Stone_Weight": true,
     "LeetCode_Task_Scheduler": true,
     "LeetCode_Implement_Queue_using_Stacks": true,
-    "LeetCode_IPO": true
+    "LeetCode_IPO": true,
+    "GeeksForGeeks_Merge_k_Sorted_Arrays": true
   },
-  "totalSolved": 72,
+  "totalSolved": 73,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 47,
+    "medium": 48,
     "hard": 3,
     "basic": 0
   },
   "todayProblems": [
-    "IPO"
+    "IPO",
+    "Merge k Sorted Arrays"
   ],
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-01",
   "maxStreak": 24,
   "activityHistory": {
@@ -167,6 +169,6 @@
     "2026-08-18": 1,
     "2026-08-30": 1,
     "2026-08-31": 1,
-    "2026-09-01": 1
+    "2026-09-01": 2
   }
 }

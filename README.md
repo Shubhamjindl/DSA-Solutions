@@ -72,3 +72,4 @@
 | 70 | [Task Scheduler](./LeetCode/Medium/Task%20Scheduler) | [LeetCode](https://leetcode.com/problems/task-scheduler/) | Medium | 30 Aug 2026 | 08:30 pm |
 | 71 | [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 31 Aug 2026 | 03:54 pm |
 | 72 | [IPO](./LeetCode/Hard/IPO) | [LeetCode](https://leetcode.com/problems/ipo/) | Hard | 01 Sept 2026 | 05:41 pm |
+| 73 | [Merge k Sorted Arrays](./GeeksForGeeks/Medium/Merge%20k%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | Medium | 01 Sept 2026 | 08:33 pm |

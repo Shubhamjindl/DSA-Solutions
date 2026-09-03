@@ -74,3 +74,4 @@
 | 72 | [IPO](./LeetCode/Hard/IPO) | [LeetCode](https://leetcode.com/problems/ipo/) | Hard | 01 Sept 2026 | 05:41 pm |
 | 73 | [Merge k Sorted Arrays](./GeeksForGeeks/Medium/Merge%20k%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | Medium | 01 Sept 2026 | 08:33 pm |
 | 74 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 02 Sept 2026 | 07:00 pm |
+| 75 | [Relative Ranks](./LeetCode/Easy/Relative%20Ranks) | [LeetCode](https://leetcode.com/problems/relative-ranks/) | Easy | 03 Sept 2026 | 11:04 am |

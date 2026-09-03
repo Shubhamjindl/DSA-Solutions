@@ -76,3 +76,4 @@
 | 74 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 02 Sept 2026 | 07:00 pm |
 | 75 | [Relative Ranks](./LeetCode/Easy/Relative%20Ranks) | [LeetCode](https://leetcode.com/problems/relative-ranks/) | Easy | 03 Sept 2026 | 11:04 am |
 | 76 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 03 Sept 2026 | 06:01 pm |
+| 77 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 03 Sept 2026 | 08:05 pm |

@@ -77,3 +77,4 @@
 | 75 | [Relative Ranks](./LeetCode/Easy/Relative%20Ranks) | [LeetCode](https://leetcode.com/problems/relative-ranks/) | Easy | 03 Sept 2026 | 11:04 am |
 | 76 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 03 Sept 2026 | 06:01 pm |
 | 77 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 03 Sept 2026 | 08:05 pm |
+| 78 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 04 Sept 2026 | 04:59 pm |

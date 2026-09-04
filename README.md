@@ -78,3 +78,4 @@
 | 76 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 03 Sept 2026 | 06:01 pm |
 | 77 | [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Easy | 03 Sept 2026 | 08:05 pm |
 | 78 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 04 Sept 2026 | 04:59 pm |
+| 79 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 04 Sept 2026 | 06:48 pm |

@@ -120,20 +120,22 @@
     "LeetCode_Relative_Ranks": true,
     "LeetCode_Fibonacci_Number": true,
     "GeeksForGeeks_Palindrome_String": true,
-    "GeeksForGeeks_Sum_Of_Digits": true
+    "GeeksForGeeks_Sum_Of_Digits": true,
+    "GeeksForGeeks_Check_Sorted_Array": true
   },
-  "totalSolved": 78,
+  "totalSolved": 79,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 48,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Sum Of Digits"
+    "Sum Of Digits",
+    "Check Sorted Array"
   ],
   "currentStreak": 6,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-04",
   "maxStreak": 24,
   "activityHistory": {
@@ -176,6 +178,6 @@
     "2026-09-01": 2,
     "2026-09-02": 1,
     "2026-09-03": 3,
-    "2026-09-04": 1
+    "2026-09-04": 2
   }
 }

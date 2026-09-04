@@ -1,0 +1,17 @@
+# Remove all occurrences of a character in a string
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/remove-all-occurrences-of-a-character-in-a-string/1)
+
+## Solved On
+04 Sept 2026 at 09:28 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/remove-all-occurrences-of-a-character-in-a-string/1">Remove all occurrences of a character in a string</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">Given a string <strong>s</strong> and a character <strong>c</strong>. The task is to remove all the occurrences of the character in the string.</span></p>
+<p><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">Examples:</span></strong></p>
+<pre><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">Input:&nbsp;</span></strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">s = "geeksforgeeks", c = 'e'<br><strong>Output: </strong>s = "gksforgks"</span></pre>
+<pre><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;"><strong>Input:</strong> s = "geeksforgeeks", c = 'g'<br><strong>Output:</strong> s = "eeksforeeks"</span></pre>
+<p><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">Constraints:<br></span></strong><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;">1 &lt;= |s| &lt;= 10</span><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; font-size: 14pt;"><sup>5</sup></span></p>

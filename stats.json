@@ -121,21 +121,23 @@
     "LeetCode_Fibonacci_Number": true,
     "GeeksForGeeks_Palindrome_String": true,
     "GeeksForGeeks_Sum_Of_Digits": true,
-    "GeeksForGeeks_Check_Sorted_Array": true
+    "GeeksForGeeks_Check_Sorted_Array": true,
+    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true
   },
-  "totalSolved": 79,
+  "totalSolved": 80,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 48,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
     "Sum Of Digits",
-    "Check Sorted Array"
+    "Check Sorted Array",
+    "Remove all occurrences of a character in a string"
   ],
   "currentStreak": 6,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-04",
   "maxStreak": 24,
   "activityHistory": {
@@ -178,6 +180,6 @@
     "2026-09-01": 2,
     "2026-09-02": 1,
     "2026-09-03": 3,
-    "2026-09-04": 2
+    "2026-09-04": 3
   }
 }

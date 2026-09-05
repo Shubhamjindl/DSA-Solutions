@@ -80,3 +80,4 @@
 | 78 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 04 Sept 2026 | 04:59 pm |
 | 79 | [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | 04 Sept 2026 | 06:48 pm |
 | 80 | [Remove all occurrences of a character in a string](./GeeksForGeeks/Easy/Remove%20all%20occurrences%20of%20a%20character%20in%20a%20string) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-all-occurrences-of-a-character-in-a-string/1) | Easy | 04 Sept 2026 | 09:28 pm |
+| 81 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 05 Sept 2026 | 11:59 pm |

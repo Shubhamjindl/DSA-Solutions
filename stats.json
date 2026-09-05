@@ -122,23 +122,22 @@
     "GeeksForGeeks_Palindrome_String": true,
     "GeeksForGeeks_Sum_Of_Digits": true,
     "GeeksForGeeks_Check_Sorted_Array": true,
-    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true
+    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true,
+    "LeetCode_Generate_Parentheses": true
   },
-  "totalSolved": 80,
+  "totalSolved": 81,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 48,
+    "medium": 49,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Sum Of Digits",
-    "Check Sorted Array",
-    "Remove all occurrences of a character in a string"
+    "Generate Parentheses"
   ],
-  "currentStreak": 6,
-  "todayCount": 3,
-  "lastSyncDate": "2026-09-04",
+  "currentStreak": 7,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-05",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -180,6 +179,7 @@
     "2026-09-01": 2,
     "2026-09-02": 1,
     "2026-09-03": 3,
-    "2026-09-04": 3
+    "2026-09-04": 3,
+    "2026-09-05": 1
   }
 }

@@ -127,21 +127,22 @@
     "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
     "LeetCode_Combination_Sum": true,
     "LeetCode_Permutations": true,
-    "LeetCode_Binary_Tree_Inorder_Traversal": true
+    "LeetCode_Binary_Tree_Inorder_Traversal": true,
+    "LeetCode_Subsets": true
   },
-  "totalSolved": 85,
+  "totalSolved": 86,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 52,
+    "medium": 53,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Binary Tree Inorder Traversal"
+    "Subsets"
   ],
-  "currentStreak": 2,
+  "currentStreak": 3,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-10",
+  "lastSyncDate": "2026-09-11",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -188,6 +189,7 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-09": 1,
-    "2026-09-10": 1
+    "2026-09-10": 1,
+    "2026-09-11": 1
   }
 }

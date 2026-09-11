@@ -128,21 +128,22 @@
     "LeetCode_Combination_Sum": true,
     "LeetCode_Permutations": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
-    "LeetCode_Subsets": true
+    "LeetCode_Subsets": true,
+    "LeetCode_Palindrome_Partitioning": true
   },
-  "totalSolved": 86,
+  "totalSolved": 87,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 53,
+    "medium": 54,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Subsets"
+    "Palindrome Partitioning"
   ],
-  "currentStreak": 3,
+  "currentStreak": 4,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-11",
+  "lastSyncDate": "2026-09-12",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -190,6 +191,7 @@
     "2026-09-07": 1,
     "2026-09-09": 1,
     "2026-09-10": 1,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   }
 }

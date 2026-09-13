@@ -130,21 +130,22 @@
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
     "LeetCode_Subsets": true,
     "LeetCode_Palindrome_Partitioning": true,
-    "LeetCode_Remove_Nodes_From_Linked_List": true
+    "LeetCode_Remove_Nodes_From_Linked_List": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
-  "totalSolved": 88,
+  "totalSolved": 89,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 55,
+    "medium": 56,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Remove Nodes From Linked List"
+    "Binary Tree Level Order Traversal"
   ],
-  "currentStreak": 5,
+  "currentStreak": 6,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-13",
+  "lastSyncDate": "2026-09-14",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -194,6 +195,7 @@
     "2026-09-10": 1,
     "2026-09-11": 1,
     "2026-09-12": 1,
-    "2026-09-13": 1
+    "2026-09-13": 1,
+    "2026-09-14": 1
   }
 }

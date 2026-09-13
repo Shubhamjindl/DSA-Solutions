@@ -87,3 +87,4 @@
 | 85 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 10 Sept 2026 | 03:14 am |
 | 86 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 11 Sept 2026 | 07:55 pm |
 | 87 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 12 Sept 2026 | 01:05 am |
+| 88 | [Remove Nodes From Linked List](./LeetCode/Medium/Remove%20Nodes%20From%20Linked%20List) | [LeetCode](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | 13 Sept 2026 | 04:45 pm |

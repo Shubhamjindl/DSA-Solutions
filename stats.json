@@ -132,21 +132,23 @@
     "LeetCode_Palindrome_Partitioning": true,
     "LeetCode_Remove_Nodes_From_Linked_List": true,
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
-    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true
+    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
+    "LeetCode_Same_Tree": true
   },
-  "totalSolved": 90,
+  "totalSolved": 91,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 57,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
     "Binary Tree Level Order Traversal",
-    "Binary Tree Zigzag Level Order Traversal"
+    "Binary Tree Zigzag Level Order Traversal",
+    "Same Tree"
   ],
   "currentStreak": 6,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 24,
   "activityHistory": {
@@ -198,6 +200,6 @@
     "2026-09-11": 1,
     "2026-09-12": 1,
     "2026-09-13": 1,
-    "2026-09-14": 2
+    "2026-09-14": 3
   }
 }

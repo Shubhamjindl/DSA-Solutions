@@ -91,3 +91,4 @@
 | 89 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 14 Sept 2026 | 01:51 am |
 | 90 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 14 Sept 2026 | 02:53 am |
 | 91 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 14 Sept 2026 | 11:36 pm |
+| 92 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 17 Sept 2026 | 10:50 am |

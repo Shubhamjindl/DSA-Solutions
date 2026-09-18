@@ -134,21 +134,22 @@
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "LeetCode_Same_Tree": true,
-    "LeetCode_Isomorphic_Strings": true
+    "LeetCode_Isomorphic_Strings": true,
+    "LeetCode_Combinations": true
   },
-  "totalSolved": 92,
+  "totalSolved": 93,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 57,
+    "medium": 58,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Isomorphic Strings"
+    "Combinations"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-17",
+  "lastSyncDate": "2026-09-19",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -200,6 +201,7 @@
     "2026-09-12": 1,
     "2026-09-13": 1,
     "2026-09-14": 3,
-    "2026-09-17": 1
+    "2026-09-17": 1,
+    "2026-09-19": 1
   }
 }

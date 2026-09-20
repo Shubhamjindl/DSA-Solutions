@@ -135,21 +135,22 @@
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "LeetCode_Same_Tree": true,
     "LeetCode_Isomorphic_Strings": true,
-    "LeetCode_Combinations": true
+    "LeetCode_Combinations": true,
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
   },
-  "totalSolved": 93,
+  "totalSolved": 94,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 58,
+    "medium": 59,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Combinations"
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-19",
+  "lastSyncDate": "2026-09-20",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -202,6 +203,7 @@
     "2026-09-13": 1,
     "2026-09-14": 3,
     "2026-09-17": 1,
-    "2026-09-19": 1
+    "2026-09-19": 1,
+    "2026-09-20": 1
   }
 }

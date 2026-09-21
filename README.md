@@ -94,3 +94,4 @@
 | 92 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 17 Sept 2026 | 10:50 am |
 | 93 | [Combinations](./LeetCode/Medium/Combinations) | [LeetCode](https://leetcode.com/problems/combinations/) | Medium | 19 Sept 2026 | 12:32 am |
 | 94 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 20 Sept 2026 | 06:15 pm |
+| 95 | [Word Pattern](./LeetCode/Easy/Word%20Pattern) | [LeetCode](https://leetcode.com/problems/word-pattern/) | Easy | 21 Sept 2026 | 06:50 pm |

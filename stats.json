@@ -137,21 +137,22 @@
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Combinations": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
-    "LeetCode_Word_Pattern": true
+    "LeetCode_Word_Pattern": true,
+    "LeetCode_Symmetric_Tree": true
   },
-  "totalSolved": 95,
+  "totalSolved": 96,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 59,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Word Pattern"
+    "Symmetric Tree"
   ],
-  "currentStreak": 3,
+  "currentStreak": 4,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-21",
+  "lastSyncDate": "2026-09-22",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -206,6 +207,7 @@
     "2026-09-17": 1,
     "2026-09-19": 1,
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-22": 1
   }
 }

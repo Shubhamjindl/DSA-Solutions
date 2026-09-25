@@ -139,21 +139,22 @@
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
     "LeetCode_Word_Pattern": true,
     "LeetCode_Symmetric_Tree": true,
-    "LeetCode_Invert_Binary_Tree": true
+    "LeetCode_Invert_Binary_Tree": true,
+    "LeetCode_Subtree_of_Another_Tree": true
   },
-  "totalSolved": 97,
+  "totalSolved": 98,
   "difficultyCounts": {
-    "easy": 34,
+    "easy": 35,
     "medium": 59,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Invert Binary Tree"
+    "Subtree of Another Tree"
   ],
-  "currentStreak": 5,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-23",
+  "lastSyncDate": "2026-09-25",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -210,6 +211,7 @@
     "2026-09-20": 1,
     "2026-09-21": 1,
     "2026-09-22": 1,
-    "2026-09-23": 1
+    "2026-09-23": 1,
+    "2026-09-25": 1
   }
 }

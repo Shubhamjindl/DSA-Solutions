@@ -101,3 +101,4 @@
 | 99 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 27 Sept 2026 | 12:34 am |
 | 100 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 27 Sept 2026 | 11:01 pm |
 | 101 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 28 Sept 2026 | 11:35 pm |
+| 102 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 01 Oct 2026 | 01:03 am |

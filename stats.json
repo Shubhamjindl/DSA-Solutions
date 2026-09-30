@@ -143,21 +143,22 @@
     "LeetCode_Subtree_of_Another_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
+    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true
   },
-  "totalSolved": 101,
+  "totalSolved": 102,
   "difficultyCounts": {
-    "easy": 36,
+    "easy": 37,
     "medium": 61,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Lowest Common Ancestor of a Binary Search Tree"
+    "Two Sum IV - Input is a BST"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-10-01",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -217,6 +218,7 @@
     "2026-09-23": 1,
     "2026-09-25": 1,
     "2026-09-27": 2,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-10-01": 1
   }
 }

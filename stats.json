@@ -145,21 +145,23 @@
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
     "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
-    "LeetCode_Kth_Smallest_Element_in_a_BST": true
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true,
+    "LeetCode_Container_With_Most_Water": true
   },
-  "totalSolved": 103,
+  "totalSolved": 104,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 62,
+    "medium": 63,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
     "Two Sum IV - Input is a BST",
-    "Kth Smallest Element in a BST"
+    "Kth Smallest Element in a BST",
+    "Container With Most Water"
   ],
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-10-01",
   "maxStreak": 24,
   "activityHistory": {
@@ -221,6 +223,6 @@
     "2026-09-25": 1,
     "2026-09-27": 2,
     "2026-09-28": 1,
-    "2026-10-01": 2
+    "2026-10-01": 3
   }
 }

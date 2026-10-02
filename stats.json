@@ -147,24 +147,22 @@
     "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Container_With_Most_Water": true,
-    "LeetCode_Path_Sum": true
+    "LeetCode_Path_Sum": true,
+    "LeetCode_Path_Sum_II": true
   },
-  "totalSolved": 105,
+  "totalSolved": 106,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 63,
+    "medium": 64,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Two Sum IV - Input is a BST",
-    "Kth Smallest Element in a BST",
-    "Container With Most Water",
-    "Path Sum"
+    "Path Sum II"
   ],
-  "currentStreak": 1,
-  "todayCount": 4,
-  "lastSyncDate": "2026-10-01",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-02",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -225,6 +223,7 @@
     "2026-09-25": 1,
     "2026-09-27": 2,
     "2026-09-28": 1,
-    "2026-10-01": 4
+    "2026-10-01": 4,
+    "2026-10-02": 1
   }
 }

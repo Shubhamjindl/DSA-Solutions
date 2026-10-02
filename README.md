@@ -105,3 +105,4 @@
 | 103 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 01 Oct 2026 | 02:15 am |
 | 104 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 01 Oct 2026 | 02:29 am |
 | 105 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 01 Oct 2026 | 11:50 pm |
+| 106 | [Path Sum II](./LeetCode/Medium/Path%20Sum%20II) | [LeetCode](https://leetcode.com/problems/path-sum-ii/) | Medium | 02 Oct 2026 | 01:59 pm |

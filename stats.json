@@ -148,21 +148,22 @@
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Path_Sum": true,
-    "LeetCode_Path_Sum_II": true
+    "LeetCode_Path_Sum_II": true,
+    "LeetCode_Flip_Equivalent_Binary_Trees": true
   },
-  "totalSolved": 106,
+  "totalSolved": 107,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 64,
+    "medium": 65,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Path Sum II"
+    "Flip Equivalent Binary Trees"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-02",
+  "lastSyncDate": "2026-10-05",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -224,6 +225,7 @@
     "2026-09-27": 2,
     "2026-09-28": 1,
     "2026-10-01": 4,
-    "2026-10-02": 1
+    "2026-10-02": 1,
+    "2026-10-05": 1
   }
 }

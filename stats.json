@@ -149,21 +149,22 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Path_Sum": true,
     "LeetCode_Path_Sum_II": true,
-    "LeetCode_Flip_Equivalent_Binary_Trees": true
+    "LeetCode_Flip_Equivalent_Binary_Trees": true,
+    "LeetCode_Sum_Root_to_Leaf_Numbers": true
   },
-  "totalSolved": 107,
+  "totalSolved": 108,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 65,
+    "medium": 66,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Flip Equivalent Binary Trees"
+    "Sum Root to Leaf Numbers"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-05",
+  "lastSyncDate": "2026-10-06",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -226,6 +227,7 @@
     "2026-09-28": 1,
     "2026-10-01": 4,
     "2026-10-02": 1,
-    "2026-10-05": 1
+    "2026-10-05": 1,
+    "2026-10-06": 1
   }
 }

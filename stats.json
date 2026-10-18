@@ -150,21 +150,22 @@
     "LeetCode_Path_Sum": true,
     "LeetCode_Path_Sum_II": true,
     "LeetCode_Flip_Equivalent_Binary_Trees": true,
-    "LeetCode_Sum_Root_to_Leaf_Numbers": true
+    "LeetCode_Sum_Root_to_Leaf_Numbers": true,
+    "LeetCode_Reverse_Linked_List": true
   },
-  "totalSolved": 108,
+  "totalSolved": 109,
   "difficultyCounts": {
-    "easy": 38,
+    "easy": 39,
     "medium": 66,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Sum Root to Leaf Numbers"
+    "Reverse Linked List"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-06",
+  "lastSyncDate": "2026-10-18",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -228,6 +229,7 @@
     "2026-10-01": 4,
     "2026-10-02": 1,
     "2026-10-05": 1,
-    "2026-10-06": 1
+    "2026-10-06": 1,
+    "2026-10-18": 1
   }
 }

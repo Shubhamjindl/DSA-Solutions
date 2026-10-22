@@ -110,3 +110,4 @@
 | 108 | [Sum Root to Leaf Numbers](./LeetCode/Medium/Sum%20Root%20to%20Leaf%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 06 Oct 2026 | 06:16 pm |
 | 109 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 18 Oct 2026 | 12:39 pm |
 | 110 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 22 Oct 2026 | 08:35 pm |
+| 111 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 22 Oct 2026 | 10:25 pm |

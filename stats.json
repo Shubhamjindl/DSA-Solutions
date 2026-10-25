@@ -154,21 +154,22 @@
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Remove_Linked_List_Elements": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
-    "LeetCode_Diameter_of_Binary_Tree": true
+    "LeetCode_Diameter_of_Binary_Tree": true,
+    "LeetCode_Intersection_of_Two_Linked_Lists": true
   },
-  "totalSolved": 112,
+  "totalSolved": 113,
   "difficultyCounts": {
-    "easy": 42,
+    "easy": 43,
     "medium": 66,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Diameter of Binary Tree"
+    "Intersection of Two Linked Lists"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-23",
+  "lastSyncDate": "2026-10-26",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -235,6 +236,7 @@
     "2026-10-06": 1,
     "2026-10-18": 1,
     "2026-10-22": 2,
-    "2026-10-23": 1
+    "2026-10-23": 1,
+    "2026-10-26": 1
   }
 }

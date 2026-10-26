@@ -113,3 +113,4 @@
 | 111 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 22 Oct 2026 | 10:25 pm |
 | 112 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 23 Oct 2026 | 12:38 am |
 | 113 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 26 Oct 2026 | 02:02 am |
+| 114 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 26 Oct 2026 | 09:37 pm |

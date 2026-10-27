@@ -115,3 +115,4 @@
 | 113 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 26 Oct 2026 | 02:02 am |
 | 114 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 26 Oct 2026 | 09:37 pm |
 | 115 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 27 Oct 2026 | 10:38 pm |
+| 116 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 28 Oct 2026 | 03:42 am |

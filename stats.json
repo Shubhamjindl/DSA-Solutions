@@ -156,22 +156,22 @@
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "LeetCode_Diameter_of_Binary_Tree": true,
     "LeetCode_Intersection_of_Two_Linked_Lists": true,
-    "LeetCode_Design_Linked_List": true
+    "LeetCode_Design_Linked_List": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
-  "totalSolved": 114,
+  "totalSolved": 115,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 67,
+    "medium": 68,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Intersection of Two Linked Lists",
-    "Design Linked List"
+    "Remove Nth Node From End of List"
   ],
-  "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-10-26",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-27",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -239,6 +239,7 @@
     "2026-10-18": 1,
     "2026-10-22": 2,
     "2026-10-23": 1,
-    "2026-10-26": 2
+    "2026-10-26": 2,
+    "2026-10-27": 1
   }
 }

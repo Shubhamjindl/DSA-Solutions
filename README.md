@@ -114,3 +114,4 @@
 | 112 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 23 Oct 2026 | 12:38 am |
 | 113 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 26 Oct 2026 | 02:02 am |
 | 114 | [Design Linked List](./LeetCode/Medium/Design%20Linked%20List) | [LeetCode](https://leetcode.com/problems/design-linked-list/) | Medium | 26 Oct 2026 | 09:37 pm |
+| 115 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 27 Oct 2026 | 10:38 pm |

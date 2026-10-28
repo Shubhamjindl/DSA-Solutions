@@ -158,20 +158,22 @@
     "LeetCode_Intersection_of_Two_Linked_Lists": true,
     "LeetCode_Design_Linked_List": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "LeetCode_Odd_Even_Linked_List": true
+    "LeetCode_Odd_Even_Linked_List": true,
+    "LeetCode_Palindrome_Linked_List": true
   },
-  "totalSolved": 116,
+  "totalSolved": 117,
   "difficultyCounts": {
-    "easy": 43,
+    "easy": 44,
     "medium": 69,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Odd Even Linked List"
+    "Odd Even Linked List",
+    "Palindrome Linked List"
   ],
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-28",
   "maxStreak": 24,
   "activityHistory": {
@@ -242,6 +244,6 @@
     "2026-10-23": 1,
     "2026-10-26": 2,
     "2026-10-27": 1,
-    "2026-10-28": 1
+    "2026-10-28": 2
   }
 }

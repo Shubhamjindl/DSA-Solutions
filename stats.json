@@ -160,23 +160,22 @@
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
     "LeetCode_Odd_Even_Linked_List": true,
     "LeetCode_Palindrome_Linked_List": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Check_Completeness_of_a_Binary_Tree": true
   },
-  "totalSolved": 118,
+  "totalSolved": 119,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 69,
+    "medium": 70,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Odd Even Linked List",
-    "Palindrome Linked List",
-    "Merge Two Sorted Lists"
+    "Check Completeness of a Binary Tree"
   ],
-  "currentStreak": 3,
-  "todayCount": 3,
-  "lastSyncDate": "2026-10-28",
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-10-29",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -246,6 +245,7 @@
     "2026-10-23": 1,
     "2026-10-26": 2,
     "2026-10-27": 1,
-    "2026-10-28": 3
+    "2026-10-28": 3,
+    "2026-10-29": 1
   }
 }

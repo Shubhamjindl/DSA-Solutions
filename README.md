@@ -119,3 +119,4 @@
 | 117 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 28 Oct 2026 | 07:46 pm |
 | 118 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 28 Oct 2026 | 10:50 pm |
 | 119 | [Check Completeness of a Binary Tree](./LeetCode/Medium/Check%20Completeness%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | 29 Oct 2026 | 06:10 pm |
+| 120 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 30 Oct 2026 | 12:27 am |

@@ -166,21 +166,22 @@
     "GeeksForGeeks_Insert_in_Sorted_Circular_Linked_List": true,
     "LeetCode_Copy_List_with_Random_Pointer": true,
     "LeetCode_Flatten_a_Multilevel_Doubly_Linked_List": true,
-    "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true
+    "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true,
+    "LeetCode_Linked_List_in_Binary_Tree": true
   },
-  "totalSolved": 124,
+  "totalSolved": 125,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 75,
+    "medium": 76,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Delete Nodes From Linked List Present in Array"
+    "Linked List in Binary Tree"
   ],
-  "currentStreak": 9,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-03",
+  "lastSyncDate": "2026-11-05",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -256,6 +257,7 @@
     "2026-10-31": 1,
     "2026-11-01": 1,
     "2026-11-02": 1,
-    "2026-11-03": 1
+    "2026-11-03": 1,
+    "2026-11-05": 1
   }
 }

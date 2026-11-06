@@ -168,21 +168,22 @@
     "LeetCode_Flatten_a_Multilevel_Doubly_Linked_List": true,
     "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true,
     "LeetCode_Linked_List_in_Binary_Tree": true,
-    "LeetCode_Valid_Palindrome_II": true
+    "LeetCode_Valid_Palindrome_II": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
-  "totalSolved": 126,
+  "totalSolved": 127,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 76,
+    "medium": 77,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Palindrome II"
+    "Longest Palindromic Substring"
   ],
-  "currentStreak": 2,
+  "currentStreak": 3,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-06",
+  "lastSyncDate": "2026-11-07",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -260,6 +261,7 @@
     "2026-11-02": 1,
     "2026-11-03": 1,
     "2026-11-05": 1,
-    "2026-11-06": 1
+    "2026-11-06": 1,
+    "2026-11-07": 1
   }
 }

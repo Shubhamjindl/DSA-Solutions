@@ -125,3 +125,4 @@
 | 123 | [Flatten a Multilevel Doubly Linked List](./LeetCode/Medium/Flatten%20a%20Multilevel%20Doubly%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | 02 Nov 2026 | 08:06 pm |
 | 124 | [Delete Nodes From Linked List Present in Array](./LeetCode/Medium/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array) | [LeetCode](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Medium | 03 Nov 2026 | 12:09 am |
 | 125 | [Linked List in Binary Tree](./LeetCode/Medium/Linked%20List%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/linked-list-in-binary-tree/) | Medium | 05 Nov 2026 | 12:02 am |
+| 126 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 06 Nov 2026 | 11:46 pm |

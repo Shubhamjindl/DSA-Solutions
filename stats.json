@@ -167,21 +167,22 @@
     "LeetCode_Copy_List_with_Random_Pointer": true,
     "LeetCode_Flatten_a_Multilevel_Doubly_Linked_List": true,
     "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true,
-    "LeetCode_Linked_List_in_Binary_Tree": true
+    "LeetCode_Linked_List_in_Binary_Tree": true,
+    "LeetCode_Valid_Palindrome_II": true
   },
-  "totalSolved": 125,
+  "totalSolved": 126,
   "difficultyCounts": {
-    "easy": 45,
+    "easy": 46,
     "medium": 76,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Linked List in Binary Tree"
+    "Valid Palindrome II"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-05",
+  "lastSyncDate": "2026-11-06",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -258,6 +259,7 @@
     "2026-11-01": 1,
     "2026-11-02": 1,
     "2026-11-03": 1,
-    "2026-11-05": 1
+    "2026-11-05": 1,
+    "2026-11-06": 1
   }
 }

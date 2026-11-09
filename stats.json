@@ -170,21 +170,22 @@
     "LeetCode_Linked_List_in_Binary_Tree": true,
     "LeetCode_Valid_Palindrome_II": true,
     "LeetCode_Longest_Palindromic_Substring": true,
-    "LeetCode_Palindromic_Substrings": true
+    "LeetCode_Palindromic_Substrings": true,
+    "LeetCode_Find_All_Anagrams_in_a_String": true
   },
-  "totalSolved": 128,
+  "totalSolved": 129,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 78,
+    "medium": 79,
     "hard": 4,
     "basic": 0
   },
   "todayProblems": [
-    "Palindromic Substrings"
+    "Find All Anagrams in a String"
   ],
-  "currentStreak": 4,
+  "currentStreak": 5,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-08",
+  "lastSyncDate": "2026-11-09",
   "maxStreak": 24,
   "activityHistory": {
     "2026-07-10": 2,
@@ -264,6 +265,7 @@
     "2026-11-05": 1,
     "2026-11-06": 1,
     "2026-11-07": 1,
-    "2026-11-08": 1
+    "2026-11-08": 1,
+    "2026-11-09": 1
   }
 }

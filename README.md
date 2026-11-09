@@ -128,3 +128,4 @@
 | 126 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 06 Nov 2026 | 11:46 pm |
 | 127 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 07 Nov 2026 | 02:14 am |
 | 128 | [Palindromic Substrings](./LeetCode/Medium/Palindromic%20Substrings) | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | Medium | 08 Nov 2026 | 01:22 pm |
+| 129 | [Find All Anagrams in a String](./LeetCode/Medium/Find%20All%20Anagrams%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | 09 Nov 2026 | 09:42 pm |
